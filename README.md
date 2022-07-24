@@ -1,1 +1,1 @@
-# My first grid project.
+# My first grid project. Első saját projektem.
